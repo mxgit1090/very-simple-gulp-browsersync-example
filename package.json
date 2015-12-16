@@ -1,0 +1,12 @@
+{
+  "name": "very-simple-gulp-browsersync-example",
+  "version": "0.0.1",
+  "author": "Mark Tsai",
+  "scripts": {
+    "start": "gulp sync"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "browser-sync": "*"
+  }
+}
